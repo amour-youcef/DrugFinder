@@ -1,0 +1,16 @@
+body {
+	background-color: Tomato;
+}
+
+h2{
+    text-align: center;
+    border: 2px solid white;
+    text-shadow: 5px 5px 8px black;
+}
+
+#progressbar {
+  background-color: black;
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+}
